@@ -1,0 +1,27 @@
+body {
+  background-color: antiquewhite;
+  font-family: 'Brush Script MT', 'Trebuchet MS', Verdana, sans-serif;
+  text-align: center;
+}
+
+.list {
+  display: inline-block;
+  text-align: left;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+a:visited {
+  color: rgb(146, 146, 146);
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(62, 96, 175);
+  text-decoration: underline;
+}
+a:active {
+  color: rgb(66, 188, 174);
+  text-decoration: underline;
+}
